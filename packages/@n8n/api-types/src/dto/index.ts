@@ -23,3 +23,5 @@ export { UserUpdateRequestDto } from './user/user-update-request.dto';
 export { CommunityRegisteredRequestDto } from './license/community-registered-request.dto';
 
 export { VariableListRequestDto } from './variables/variables-list-request.dto';
+export { CredentialsGetOneRequest } from './credentials/credentials-get-one-request.dto';
+export { CredentialsGetManyRequest } from './credentials/credentials-get-many-request.dto';
